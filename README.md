@@ -32,7 +32,8 @@ The Q outputs of each flip-flop will serve as the respective binary bits of the 
  
 
 Four-bit “Up” Counter
-![image](https://user-images.githubusercontent.com/36288975/169644758-b2f4339d-9532-40c5-af40-8f4f8c942e2c.png)
+![Screenshot 2023-11-26 172417](https://github.com/Mohanraj2006/Exp-7-Synchornous-counters-/assets/152195759/865dea3a-55c5-4a22-bfc4-34a97347fe81)
+![Screenshot 2023-11-26 171915](https://github.com/Mohanraj2006/Exp-7-Synchornous-counters-/assets/152195759/17666a16-00fa-43fd-a8ed-b72b6ef6ada4)
 
 
 
@@ -41,13 +42,16 @@ Four-bit “Up” Counter
 As well as counting “up” from zero and increasing or incrementing to some preset value, it is sometimes necessary to count “down” from a predetermined value to zero allowing us to produce an output that activates when the zero count or some other pre-set value is reached.
 
 This type of counter is normally referred to as a Down Counter, (CTD). In a binary or BCD down counter, the count decreases by one for each external clock pulse from some preset value. Special dual purpose IC’s such as the TTL 74LS193 or CMOS CD4510 are 4-bit binary Up or Down counters which have an additional input pin to select either the up or down count mode.
-![image](https://user-images.githubusercontent.com/36288975/169644844-1a14e123-7228-4ed8-81a9-eb937dff4ac8.png)
+![Screenshot 2023-11-26 171804](https://github.com/Mohanraj2006/Exp-7-Synchornous-counters-/assets/152195759/4724f977-54bb-4e5d-ab5f-cc2e2eb7eb58)
 
+![Screenshot 2023-11-26 171521](https://github.com/Mohanraj2006/Exp-7-Synchornous-counters-/assets/152195759/c4063cb1-3f7b-4076-bdde-3d78610556ae)
 
 4-bit Count Down Counter
 ### Procedure
 /* write all the steps invloved */
+![Screenshot 2023-11-26 171402](https://github.com/Mohanraj2006/Exp-7-Synchornous-counters-/assets/152195759/07ad828e-caf8-4c43-bd37-1838ee533f97)
 
+![Screenshot 2023-11-26 171857](https://github.com/Mohanraj2006/Exp-7-Synchornous-counters-/assets/152195759/3643611f-22c2-46a0-9344-6dc2c7132762)
 
 
 ### PROGRAM 
@@ -81,6 +85,9 @@ RegisterNumber:
 ### TRUTH TABLE 
 
 
+![th](https://github.com/Mohanraj2006/Exp-7-Synchornous-counters-/assets/152195759/7ee66d71-5b2c-491a-bd8e-47056a31e1b6)
+
+![download](https://github.com/Mohanraj2006/Exp-7-Synchornous-counters-/assets/152195759/bb12ffd1-839a-4314-a1e5-404a2a537453)
 
 
 
